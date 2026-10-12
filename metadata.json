@@ -1,0 +1,6 @@
+{
+  "name": "CareerLens AI — Explainable Resume Intelligence & Skill Gap Analyzer",
+  "description": "Research-oriented explainable resume intelligence, evidence-backed job-fit analysis, skill gap prioritization, and ATS readability auditor for technical roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
